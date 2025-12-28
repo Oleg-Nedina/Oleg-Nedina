@@ -1,20 +1,20 @@
-# Hi there, I'm Oleg Nedina ! 👋
+# Hi there, I'm Oleg Nedina 
 
-### 🎓 HPC Engineering Student @ Politecnico di Milano
+###  HPC Engineering Student @ Politecnico di Milano
 
 I am a passionate developer focused on **High Performance Computing**, **Low-Level Programming**, and **Embedded Systems**. My approach to engineering is grounded in mathematical modeling and complex problem-solving. I love diving deep into memory management and parallelization to squeeze every bit of performance out of the hardware.
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-* 🔭 **Current Focus:** Optimizing algorithms for parallel architectures and designing efficient embedded solutions.
-* 🌱 **Background:** Before transitioning to full-time engineering, I spent years working in **High-End Hospitality**. This experience honed my ability to perform under high pressure, manage complex situations, and maintain rigorous attention to detail—skills I now apply to my code and team leadership.
-* 🧠 **Interests:** Mathematical Modeling, Algorithm Optimization, Hardware-Software Co-design.
+*  **Current Focus:** Optimizing algorithms for parallel architectures and designing efficient embedded solutions.
+*  **Background:** Before transitioning to full-time engineering, I spent years working in **High-End Hospitality**. This experience honed my ability to perform under high pressure, manage complex situations, and maintain rigorous attention to detail—skills I now apply to my code and team leadership.
+*  **Interests:** Mathematical Modeling, Algorithm Optimization, Hardware-Software Co-design.
 
 ---
 
-### 🚀 Technologies & Tools
+###  Technologies & Tools
 
 **Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VHDL](https://img.shields.io/badge/VHDL-gray?style=for-the-badge)
@@ -29,7 +29,7 @@ I am a passionate developer focused on **High Performance Computing**, **Low-Lev
 
 ---
 
-### 🏆 Selected Projects
+###  Selected Projects
 
 Here are some of the projects I've worked on, focusing on performance, optimization, and architecture:
 
