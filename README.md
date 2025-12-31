@@ -37,7 +37,7 @@ Here are some of the projects I've worked on, focusing on performance, optimizat
 | :--- | :--- | :--- |
 | **[Distributed Game Platform](https://github.com/Oleg-Nedina/Distributed-Software-Engineering.git)** | Multiplayer platform with a distributed **MVC architecture**. I led the design team, defined the network protocols (RMI/Socket), and implemented the core game logic. | `Java` `Network` `MVC` |
 | **[NeuralNets](https://github.com/Oleg-Nedina/neuralnets.git)** | High-performance **Matrix Multiplication** engine built from scratch using **SIMD (AVX2)** and threading. Implemented a **Feed-Forward Neural Network** to benchmark solver efficiency and scalability. | `C++` `OpenMP` `AVX2` `Pthreads` |
-| **[FPGA Differential Accelerator](https://github.com/Oleg-Nedina/Hardware-Accelerator-Progetto-Reti-Logiche-.git)** | Hardware accelerator for differential signal filtering. [cite_start]Designed a custom **17-state FSM** and low-level memory interfaces to optimize data stream processing on FPGA. | `VHDL` `Vivado` `FPGA` |
+| **[Parallel Wave Solver](https://github.com/Oleg-Nedina/Wave_Equation.git)** | Distributed numerical solver for the **Wave Equation** using **Finite Elements (deal.II)**. Features **MPI parallelization**, **Newmark time integration**, and strict code-configuration separation. | `C++` `MPI` `deal.II` `CMake` |
 | **[Movhex Pathfinding](https://github.com/Oleg-Nedina/movhex-pathfinding-optimization.git)** | Optimized pathfinding engine for hexagonal grids. Handles **dynamic edge costs** and topology changes (air routes) in real-time using adapted graph traversal algorithms. | `C` `Graph Theory` |
 
 
