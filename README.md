@@ -35,10 +35,10 @@ Here are some of the projects I've worked on, focusing on performance, optimizat
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Distributed Game Platform](https://github.com/Oleg-Nedina/Distributed-Software-Engineering.git)** | Multiplayer platform with a distributed **MVC architecture**. I led the design team, defined the network protocols (RMI/Socket), and implemented the core game logic. | `Java` `Network` `MVC` |
+| **[AlpaScalata](https://github.com/Oleg-Nedina/AlpaScalata.git)** | HPC framework for dense GEMM optimization and benchmarking. Developed native CUDA kernels and portable Alpaka solvers to analyze performance portability. Features hybrid parallelism (MPI + OpenMP) for multi-GPU cluster scalability and automated correctness verification. | `C++` `CUDA` `Alpaka` `MPI` |
 | **[NeuralNets](https://github.com/Oleg-Nedina/neuralnets.git)** | High-performance **Matrix Multiplication** engine built from scratch using **SIMD (AVX2)** and threading. Implemented a **Feed-Forward Neural Network** to benchmark solver efficiency and scalability. | `C++` `OpenMP` `AVX2` `Pthreads` |
 | **[Parallel Wave Solver](https://github.com/Oleg-Nedina/Wave_Equation.git)** | Distributed numerical solver for the **Wave Equation** using **Finite Elements (deal.II)**. Features **MPI parallelization**, **Newmark time integration**, and strict code-configuration separation. | `C++` `MPI` `deal.II` `CMake` |
-| **[Movhex Pathfinding](https://github.com/Oleg-Nedina/movhex-pathfinding-optimization.git)** | Optimized pathfinding engine for hexagonal grids. Handles **dynamic edge costs** and topology changes (air routes) in real-time using adapted graph traversal algorithms. | `C` `Graph Theory` |
+| **[Distributed Game Platform](https://github.com/Oleg-Nedina/Distributed-Software-Engineering.git)** | Multiplayer platform with a distributed **MVC architecture**. I led the design team, defined the network protocols (RMI/Socket), and implemented the core game logic. | `Java` `Network` `MVC` |
 
 
 *(See my [Repositories](https://github.com/Oleg-Nedina?tab=repositories) for more)*
